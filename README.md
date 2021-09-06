@@ -1,36 +1,18 @@
-Pokémon Shuffle Icon Repository for Various Maps and Bots
-
-NovaBot set iconurl https://raw.githubusercontent.com/nileplumb/PkmnShuffleMap/master/NOVA_Sprites/
-
-RDM Download and replace your docker image folder with the Novabot folder or RDM_ALL folder
-
-PMSF set
-
-iconRepository = 'https://raw.githubusercontent.com/nileplumb/PkmnShuffleMap/master/PMSF_icons_large/';
-
-or download if using locally
+**Pokemon Shuffle Style Half Shiny 128x128**<br />
+URL: `https://raw.githubusercontent.com/jms412/PkmnShuffleMap/master/UICONS_Half_Shiny_128/`<br />
+Example: https://raw.githubusercontent.com/jms412/PkmnShuffleMap/master/UICONS_Half_Shiny_128/pokemon/113.png<br />
+![113](https://user-images.githubusercontent.com/80012316/131057168-27972b77-1fd2-4280-8249-af256085db6d.png)
 
 
-The PMSF folder should also be compatible with some popular reporting bots (hence some duplicate images and sub folders.)
+**Coming Soon: Pokemon Shuffle Style Half Shiny 256x256**<br />
+![113](https://user-images.githubusercontent.com/80012316/131270553-ee4079c1-33d8-416e-90a1-5d0fc4482665.png)<br />
 
-Currently PMSF still uses some local static files (eggs, grunts etc) so you may want to manually replace some of the images you host locally inside the following PMSF folder
 
-/PMSF/static/
+**Coming Soon: Pokemon Shuffle Style Half Shiny 256x256 + Sparkles**<br />
+![113](https://user-images.githubusercontent.com/80012316/131270549-e12bfa71-0f1c-413b-b158-74a7f6739d85.png)
 
-Simply replace / rename any images you want from the Alternative Egg designs, grunts subfolder, or misc etc (eg Slider images for nests and stardust)
 
-You may need to rebuild PMSF after replacing images, same as when you update your build.
-
-npm install && npm run build
-
-Most shuffle shiny recolours with thanks to noodnood966 from Deviantart
-
-Any donations very welcome if you want to support my personal morale / upkeep of image repo's
-
-Paypal:
-
-https://paypal.me/NilePlumb
-
-Bitcoin:
-
-1L6XpE4AU8XfRGyxPWWaLA4VacSw9vCBRx
+Credits:<br />
+NilePlumb - All Costumes & Some Gen 8 Sprites (https://www.deviantart.com/nileplumb/gallery) - https://paypal.me/NilePlumb<br />
+Noodnood966 - Almost All Shiny Sprites (https://www.deviantart.com/noodnood966/gallery/)<br />
+Cactus-Senpai - Most Gen 8 Non-Shiny Sprites (https://www.deviantart.com/cactus-senpai/gallery)
