@@ -13,7 +13,6 @@ Example: https://raw.githubusercontent.com/jms412/PkmnShuffleMap/master/UICONS_H
 **Pokemon Shuffle Style Half Shiny 128x128**<br />
 URL: `https://raw.githubusercontent.com/jms412/PkmnShuffleMap/master/UICONS_Half_Shiny_128/`<br />
 Example: https://raw.githubusercontent.com/jms412/PkmnShuffleMap/master/UICONS_Half_Shiny_128/pokemon/113.png<br />
-![113](https://user-images.githubusercontent.com/80012316/131057168-27972b77-1fd2-4280-8249-af256085db6d.png)
 
 Credits:<br />
 NilePlumb - All Costumes & Some Gen 8 Sprites (https://www.deviantart.com/nileplumb/gallery) - https://paypal.me/NilePlumb<br />
