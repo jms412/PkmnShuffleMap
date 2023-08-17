@@ -18,3 +18,4 @@ Credits:<br />
 NilePlumb - All Costumes & Some Gen 8 Sprites (https://www.deviantart.com/nileplumb/gallery) - https://paypal.me/NilePlumb<br />
 Noodnood966 - Almost All Shiny Sprites (https://www.deviantart.com/noodnood966/gallery/)<br />
 Cactus-Senpai - Most Gen 8 Non-Shiny Sprites (https://www.deviantart.com/cactus-senpai/gallery)
+Loran-Hemlock - Gen 9 Non-Shiny Sprites (https://www.deviantart.com/loran-hemlock)
